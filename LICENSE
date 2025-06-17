@@ -1,21 +1,29 @@
-MIT License
+# Dual-License Notice
 
-Copyright (c) 2025 Vincent Hernandez
+## Open-Source License (MIT)
+Copyright © 2025 Vincent Hernandez. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software is licensed under the **MIT License**, granting users permission to use, modify, distribute, and sublicense the software under the outlined terms.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+For **commercial licensing**, enterprise use, or proprietary modifications beyond the open-source scope, please contact **[Sales@libertyars.com]** for licensing agreements.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software **without restriction**, including but not limited to the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be **included in all copies** or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+## Commercial Licensing (Proprietary Terms)
+A **premium version** of this software is available under **[Liberty Actuator Repair Services Proprietary License]**, including advanced features, commercial integrations, and extended rights.
+
+### **Commercial Use Restrictions**
+- **Enterprise use requires explicit approval** via a commercial licensing agreement.  
+- **Unauthorized distribution or modification** of proprietary features **is strictly prohibited**.  
+- **License key validation** is required for access to premium features.  
+- Violation of these terms **may result in license revocation or legal action**.
+
+### **License Verification**
+Commercial users must obtain a **valid license key** before deployment. For inquiries, visit **[Sales@libertyars.com]** or contact **[Your Company’s Website]**.
+
